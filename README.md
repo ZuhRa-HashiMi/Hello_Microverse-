@@ -9,11 +9,11 @@
 - HTML
 - CSS
 
-👤 **Samiullah Bahadur**
+👤 **Zuhra "Hashimi"**
 
-- GitHub: [@samiullahbahadur](https://github.com/samiullahbahadur)
-- Twitter: [@samiullahbahadur](https://twitter.com/@Samiull88496331)
-- LinkedIn: [samiullahbahadur](https://linkedin.com/in/samiullah-bahadur-a1b053149/)
+- GitHub: [@ZuhRa-HashiMi](https://github.com/ZuhRa-HashiMi)
+- Twitter: [@ZuhraHashimi4](https://twitter.com/ZuhraHashimi4)
+- LinkedIn: [zuhra-hashimi](https://www.linkedin.com/in/zuhra-hashimi-601966214/)
 
 ## 📝 License
 
